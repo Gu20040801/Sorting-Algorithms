@@ -23,7 +23,7 @@ int main() {
     int N = 20000;
     int min = 1;
     int max = 10000;
-    int sorttype = 4;
+    int sorttype = 3;
 
 /*---------------------------------------------------------------------------------*/
     clock_t start = clock();
